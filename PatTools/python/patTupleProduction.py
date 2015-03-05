@@ -18,6 +18,8 @@ commands which needs to be added to keep the appropriate PAT tuple products.
 
 Authors: Bucky & Friends
 
+THIS ONE HAS FILTERS REMOVED
+
 '''
 
 import FWCore.ParameterSet.Config as cms
